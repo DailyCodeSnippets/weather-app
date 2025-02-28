@@ -1,0 +1,2 @@
+# weather-app
+ Weather Information App (HTML, CSS, JavaScript) Developed a dynamic weather application that provides real-time weather updates based on user input. Utilized JavaScript’s Fetch API to retrieve weather data from an external API. Displays essential weather details such as temperature, wind speed, cloud cover, rain, and snow conditions. Designed a clean and responsive UI using HTML and CSS for a seamless user experience. Ensured cross-device compatibility for mobile and desktop users.
